@@ -1,0 +1,10 @@
+{
+  "name": "github-design-commit",
+  "version": "1.0.0",
+  "description": "juhu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "juhair-cupcake"
+}
