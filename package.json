@@ -1,7 +1,7 @@
 {
-  "name": "github-design-commit",
-  "version": "1.0.0",
-  "description": "juhu",
+  "name": "draw-commit-github",
+  "version": "1.2.3",
+  "description": "juhu text on my commit history",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"

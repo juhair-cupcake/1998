@@ -1,143 +1,19 @@
 # Draw Your Github Commit History
+
 By [juhair-cupcake](https://juhair.is-a.dev/)
 
 ## Requirements
+
 - Don't fork, Create a new repo and copy everything.
 - You need to be logged-in on your Github(by SSH/HTTPS) from you terminal.
 - Change your starting date(**_It has to be Sunday in YYYY-MM-DD format_**), designs, branch name etc.
 
 ## Run Command
+
 ```
 npm start
 ```
 
-### Last Commited Dates
+### Disclaimer
 
-- Thu Jan 08 1998.  
-- Fri Jan 09 1998.  
-- Thu Jan 15 1998.  
-- Fri Jan 16 1998.  
-- Sat Jan 17 1998.  
-- Fri Jan 23 1998.  
-- Sat Jan 24 1998.  
-- Sat Jan 31 1998.  
-- Sat Feb 07 1998.  
-- Sat Feb 14 1998.  
-- Fri Feb 20 1998.  
-- Sat Feb 21 1998.  
-- Sun Feb 22 1998.  
-- Mon Feb 23 1998.  
-- Tue Feb 24 1998.  
-- Wed Feb 25 1998.  
-- Thu Feb 26 1998.  
-- Fri Feb 27 1998.  
-- Sat Feb 28 1998.  
-- Sun Mar 01 1998.  
-- Mon Mar 02 1998.  
-- Tue Mar 03 1998.  
-- Wed Mar 04 1998.  
-- Thu Mar 05 1998.  
-- Fri Mar 06 1998.  
-- Sun Mar 15 1998.  
-- Mon Mar 16 1998.  
-- Tue Mar 17 1998.  
-- Wed Mar 18 1998.  
-- Thu Mar 19 1998.  
-- Fri Mar 20 1998.  
-- Sun Mar 22 1998.  
-- Mon Mar 23 1998.  
-- Tue Mar 24 1998.  
-- Wed Mar 25 1998.  
-- Thu Mar 26 1998.  
-- Fri Mar 27 1998.  
-- Sat Mar 28 1998.  
-- Fri Apr 03 1998.  
-- Sat Apr 04 1998.  
-- Sat Apr 11 1998.  
-- Sat Apr 18 1998.  
-- Sat Apr 25 1998.  
-- Fri May 01 1998.  
-- Sat May 02 1998.  
-- Sun May 03 1998.  
-- Mon May 04 1998.  
-- Tue May 05 1998.  
-- Wed May 06 1998.  
-- Thu May 07 1998.  
-- Fri May 08 1998.  
-- Sun May 10 1998.  
-- Mon May 11 1998.  
-- Tue May 12 1998.  
-- Wed May 13 1998.  
-- Thu May 14 1998.  
-- Fri May 15 1998.  
-- Sun May 31 1998.  
-- Mon Jun 01 1998.  
-- Tue Jun 02 1998.  
-- Wed Jun 03 1998.  
-- Thu Jun 04 1998.  
-- Fri Jun 05 1998.  
-- Sat Jun 06 1998.  
-- Sun Jun 07 1998.  
-- Mon Jun 08 1998.  
-- Tue Jun 09 1998.  
-- Wed Jun 10 1998.  
-- Thu Jun 11 1998.  
-- Fri Jun 12 1998.  
-- Sat Jun 13 1998.  
-- Wed Jun 17 1998.  
-- Thu Jun 18 1998.  
-- Wed Jun 24 1998.  
-- Thu Jun 25 1998.  
-- Wed Jul 01 1998.  
-- Thu Jul 02 1998.  
-- Wed Jul 08 1998.  
-- Thu Jul 09 1998.  
-- Wed Jul 15 1998.  
-- Thu Jul 16 1998.  
-- Sun Jul 19 1998.  
-- Mon Jul 20 1998.  
-- Tue Jul 21 1998.  
-- Wed Jul 22 1998.  
-- Thu Jul 23 1998.  
-- Fri Jul 24 1998.  
-- Sat Jul 25 1998.  
-- Sun Jul 26 1998.  
-- Mon Jul 27 1998.  
-- Tue Jul 28 1998.  
-- Wed Jul 29 1998.  
-- Thu Jul 30 1998.  
-- Fri Jul 31 1998.  
-- Sat Aug 01 1998.  
-- Sun Aug 09 1998.  
-- Mon Aug 10 1998.  
-- Tue Aug 11 1998.  
-- Wed Aug 12 1998.  
-- Thu Aug 13 1998.  
-- Fri Aug 14 1998.  
-- Sun Aug 16 1998.  
-- Mon Aug 17 1998.  
-- Tue Aug 18 1998.  
-- Wed Aug 19 1998.  
-- Thu Aug 20 1998.  
-- Fri Aug 21 1998.  
-- Sat Aug 22 1998.  
-- Fri Aug 28 1998.  
-- Sat Aug 29 1998.  
-- Sat Sep 05 1998.  
-- Sat Sep 12 1998.  
-- Sat Sep 19 1998.  
-- Fri Sep 25 1998.  
-- Sat Sep 26 1998.  
-- Sun Sep 27 1998.  
-- Mon Sep 28 1998.  
-- Tue Sep 29 1998.  
-- Wed Sep 30 1998.  
-- Thu Oct 01 1998.  
-- Fri Oct 02 1998.  
-- Sat Oct 03 1998.  
-- Sun Oct 04 1998.  
-- Mon Oct 05 1998.  
-- Tue Oct 06 1998.  
-- Wed Oct 07 1998.  
-- Thu Oct 08 1998.  
-- Fri Oct 09 1998.  
+I faced some unknown time zone issue
