@@ -29,6 +29,7 @@ By [juhair-cupcake](https://juhair.is-a.dev/)
 - Don't fork, Create a new repo and copy everything.
 - You need to be logged-in on your Github(by SSH/HTTPS) from you terminal.
 - Change your starting date(**_It has to be Sunday in YYYY-MM-DD format_**), designs, branch name etc.
+- For Windows you might have to select a different shell(select bash, if cmd/powershell shows error) on exec shell location.
 
 ## Run Command
 \`\`\`
@@ -50,6 +51,7 @@ const commitToGit = (d) => {
   const command = `git add . && GIT_AUTHOR_DATE="${calcDateTime}" GIT_COMMITTER_DATE="${calcDateTime}" git commit -m "updated: readme on ${calcDateTime}" && git push origin ${branchName}`;
 
   console.log("git is commiting on", calcDateTime);
+  //exec(command, {shell: 'C:\\Program Files\\Git\\git-bash.exe'}, (err, stdout, stderr) => {
   exec(command, (err, stdout, stderr) => {
     if (err) {
       console.error(err);
